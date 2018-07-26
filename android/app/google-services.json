@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "719199174578",
+    "firebase_url": "https://cleantrack-be187.firebaseio.com",
+    "project_id": "cleantrack-be187",
+    "storage_bucket": "cleantrack-be187.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719199174578:android:15e3499c8eb88a14",
+        "android_client_info": {
+          "package_name": "com.clean.track"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719199174578-142g1pvbfj484cg5tdfqi97dedimdtd4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clean.track",
+            "certificate_hash": "db94b4e656a91966c1f08f9ba98d52d526163186"
+          }
+        },
+        {
+          "client_id": "719199174578-6ruj4rpv0epu6p5093jbu9erbddav04u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmV0NngoExaO4N0PV8rzZXWoux3kMPY1Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719199174578-6ruj4rpv0epu6p5093jbu9erbddav04u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
